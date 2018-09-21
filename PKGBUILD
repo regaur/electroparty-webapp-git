@@ -1,7 +1,7 @@
 # Maintainer: Jan Boelsche <jan@lagomorph.de>
 
 pkgname=ssb-electroparty-webapp-git
-pkgver=1.0.0.r3.8f87787
+pkgver=1.1.0.r4.5bf35be
 pkgrel=1
 pkgdesc="Provides ep-geturl binary"
 arch=('any')
